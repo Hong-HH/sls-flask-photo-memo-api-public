@@ -6,3 +6,6 @@ PUBLIC 으로 게시하기 위해 소스코드 부분만 따로 정리하였다.
 
 서버는 서버리스 프레임워크를 통해 aws lambda 를 이용하며,  
 mysql에 저장된 데이터를 가져오거나 수정한다.
+
+api 문서
+https://documenter.getpostman.com/view/18995268/VUjTj3D5
